@@ -48,4 +48,53 @@ Atualmente, curso **Sistemas de Informação (FeMASS)** e finalizo minha especia
 [!["LinkedIn"](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-junior)
 [!["Gmail"](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniordatsci@gmail.com)
 
+---
+# Hi there, I'm [Your Name] 👋
 
+## 📊 Data Scientist | 💼 Business Development | 🧬 HealthTech & Biomedical Background
+
+I am a multidisciplinary professional bridging the gap between **Financial Markets**, **Biomedical Engineering**, and **Data Science**. 
+
+Currently, I am pursuing a degree in **Information Systems (FeMASS)** and completing a Postgraduate specialization in **Data Science**. My goal is to transform complex datasets into strategic insights that drive high-impact business decisions.
+
+---
+
+### 🚀 What I Bring to the Table:
+* **Business & Finance Expertise:** Former Investment Advisor at **Banco Safra** and **XP Inc.**, holding **CPA-20** and **ANCORD** (Broker-Dealer) certifications. Strong background in business development, corporate prospecting, and risk analysis.
+* **Healthcare & Research Domain:** Background in Physical Therapy with graduate research experience in **Biomedical Engineering (UFRJ)**. Deep understanding of clinical data and biological signals.
+* **Hands-on Data Science:** Developed real-world case studies focused on end-to-end solutions, from data cleaning and wrangling to advanced visualization for stakeholders decision.
+
+---
+
+### 🛠️ Hard Skills & Certifications
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Data Science** | Python (Pandas, Numpy, Scikit-Learn), SQL |
+| **Finance** | ANBIMA CPA-20, ANCORD (Registered Investment Advisor) |
+| **Data Viz** | Power BI, Matplotlib, Seaborn |
+| **Academics** | B.S. in Information Systems, Postgrad in Data Science |
+
+---
+
+### 📂 Featured Data Science Projects
+> Turning data into actionable business and health solutions:
+
+1.  **[Project Name 1]**: Short description of the problem solved (e.g., "Predicting financial churn using Random Forest").
+2.  **[Project Name 2]**: Short description (e.g., "Exploratory Data Analysis on hospital readmission rates").
+3.  **[Project Name 3]**: Short description (e.g., "Automated Dashboard for investment portfolio performance").
+
+---
+
+### 🎓 Education & Professional Journey
+* **B.S. in Information Systems** – FeMASS (In Progress)
+* **Postgraduate in Data Science** – [FIAP] (In Progress)
+* **Investment Advisor** – Banco Safra & XP Inc. (Business Development)
+* **M.Sc. Research (Biomedical Engineering)** – UFRJ
+* **B.S. in Physical Therapy** – [UNESA]
+
+---
+
+### 📫 Let's connect and build something great!
+
+[!["LinkedIn"](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-junior)
+[!["Gmail"](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniordatasci@gmail.com)
