@@ -49,7 +49,7 @@ Atualmente, curso **Sistemas de Informação (FeMASS)** e finalizo minha especia
 [!["Gmail"](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniordatsci@gmail.com)
 
 ---
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm E.Junior 👋
 
 ## 📊 Data Scientist | 💼 Business Development | 🧬 HealthTech & Biomedical Background
 
@@ -87,7 +87,7 @@ Currently, I am pursuing a degree in **Information Systems (FeMASS)** and comple
 
 ### 🎓 Education & Professional Journey
 * **B.S. in Information Systems** – FeMASS (In Progress)
-* **Postgraduate in Data Science** – [FIAP] (In Progress)
+* **Postgraduate in Data Science** – [FIAP] 
 * **Investment Advisor** – Banco Safra & XP Inc. (Business Development)
 * **M.Sc. Research (Biomedical Engineering)** – UFRJ
 * **B.S. in Physical Therapy** – [UNESA]
